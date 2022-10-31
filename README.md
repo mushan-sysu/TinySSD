@@ -58,9 +58,11 @@ git clone https://github.com/mushan-sysu/TinySSD
 
 测试的结果存放在result中，下面给出检测的效果
 
-![1667201393101](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1667201393101.png)
+
+
+![image](https://github.com/mushan-sysu/TinySSD/blob/main/results/1.jpg)
 
 
 
-![1667201421411](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1667201421411.png)
+![image](https://github.com/mushan-sysu/TinySSD/blob/main/results/2.jpg)
 
